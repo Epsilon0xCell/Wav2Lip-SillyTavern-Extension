@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 # Wav2lip Silly Tavern extension
 
 Based on [Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip) and wrapped in js for Silly Tavern by [Mozer](https://github.com/Mozer)
