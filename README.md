@@ -1,4 +1,5 @@
 <p align="center"><img src="logo.png" alt="Wav2Lip-SillyTavern-Extension logo: a ventriloquist dummy in a navy suit and bow tie seated on a wooden stage stool, its jaw dropped open mid word in front of a dark curtain, the performer nowhere in frame" width="200"></p>
+
 ![Banner](banner.png)
 
 # Wav2lip Silly Tavern extension
